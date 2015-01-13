@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "OHC-RGB", "OHC-RGB\OHC-RGB.cproj", "{EA825FCD-0900-43B7-BD65-16B5DAE48B72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA825FCD-0900-43B7-BD65-16B5DAE48B72}.Debug|AVR.ActiveCfg = Debug|AVR
+		{EA825FCD-0900-43B7-BD65-16B5DAE48B72}.Debug|AVR.Build.0 = Debug|AVR
+		{EA825FCD-0900-43B7-BD65-16B5DAE48B72}.Release|AVR.ActiveCfg = Release|AVR
+		{EA825FCD-0900-43B7-BD65-16B5DAE48B72}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
